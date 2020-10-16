@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <filter id="Caminho_2149" x="151.891" y="-9.047" width="912.109" height="629.64" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_6_7_8_57">
+      <rect width="1024" height="1024"/>
+    </clipPath>
+  </defs>
+  <g id="icone" data-name="iPhone 6/7/8 – 57" clip-path="url(#clip-iPhone_6_7_8_57)">
+    <path id="Caminho_2209" data-name="Caminho 2209" d="M512,0c282.77,0,512,229.23,512,512s-229.23,512-512,512S0,794.77,0,512,229.23,0,512,0Z" fill="#ed1d24"/>
+    <path id="Caminho_2150" data-name="Caminho 2150" d="M5171.954,515.874l79.411,258.249,242.774,190.766L5734.5,978.624l140.119-65.363s-12.191-220.452-244.833-365.727S5171.954,515.874,5171.954,515.874Z" transform="translate(-4856 -476)" fill="#007dc5"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Caminho_2149)">
+      <path id="Caminho_2149-2" data-name="Caminho 2149" d="M5450.147,55.953S5562.413,275.5,5663.709,428.3,5920.239,546.435,6076,476c0,0-449.375,272.5-607.329,81.927-92.4-111.485-185.941-273.365-244.78-384.059,0,0,27.364-33.33,103.39-73.08S5450.147,55.953,5450.147,55.953Z" transform="translate(-5052 -45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
