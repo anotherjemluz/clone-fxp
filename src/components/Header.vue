@@ -582,7 +582,7 @@ header {
   }
 }
 
-@media only screen and (min-width: 1501px) and (max-width: 2500px) {
+@media only screen and (min-width: 1501px) {
   header {
     padding: 20px 40px 20px 40px;
     max-height: 100px;
