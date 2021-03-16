@@ -65,7 +65,7 @@ export default {
   data: () => {
     return {
       userData: {
-        razaoSocial: 'CASERNA ATIVIDADE FISICA LTDA',
+        razaoSocial: 'SIMBORA ATIVIDADE FISICA LTDA',
         lojas: [
           { codigo: 35845946335845, nome: 'CROSSFIT SIMBORA', razaoSocial: 'SIMBORA ATIVIDADE FISICA LTDA', },
           { codigo: 35845216335849, nome: 'AÇAI BIRA', razaoSocial: 'BIRA DOCES LTDA', },
@@ -305,6 +305,10 @@ header {
     font-size: 4.4rem;
     margin-bottom: 1rem;
     color: black;
+  }
+
+  .mob_user_dropdown p {
+    position: relative;
   }
 
   .mob.active {
