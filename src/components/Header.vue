@@ -67,9 +67,9 @@ export default {
       userData: {
         razaoSocial: 'CASERNA ATIVIDADE FISICA LTDA',
         lojas: [
-          { codigo: 46548946335845, nome: 'CROSSFIT CASERNA', razaoSocial: 'CASERNA ATIVIDADE FISICA LTDA', },
-          { codigo: 86548216335849, nome: 'AÇAI BIRA', razaoSocial: 'BIRA DOCES LTDA', },
-          { codigo: 86548216335849, nome: 'JAMES MODAS', razaoSocial: 'JAMES ROUPAS E CALÇADOS LTDA', },
+          { codigo: 35845946335845, nome: 'CROSSFIT SIMBORA', razaoSocial: 'SIMBORA ATIVIDADE FISICA LTDA', },
+          { codigo: 35845216335849, nome: 'AÇAI BIRA', razaoSocial: 'BIRA DOCES LTDA', },
+          { codigo: 35845216335849, nome: 'JAMES MODAS', razaoSocial: 'JAMES ROUPAS E CALÇADOS LTDA', },
         ]
       }
     }
